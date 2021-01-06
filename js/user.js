@@ -26,10 +26,6 @@ export function log(value) {
     console.log(value);
 }
 
-// エイリアスとは……
-//     別名の意。
-//     name、name2、logは識別詞と言われるがこの識別詞とは別に新たに名前をつけることができる。
-
 // named importのエイリアスの練習
 const name = "ピカチュウ";
 
